@@ -1,4 +1,4 @@
-<img src="chromspec.png" alt="Chromatographic Specialties Inc. Logo" width="280"/>
+<img src="../chromspec.png" alt="Chromatographic Specialties Inc. Logo" width="280"/>
 
 Welcome to the GitHub home of Chromatographic Specialties Inc. This organization is the central location for engineering, R&D, and software development, including our CHROMSPEC™ line of instrumentation software solutions.
 
@@ -12,7 +12,7 @@ Our continued success is built on a foundation of technical expertise, personali
 
 ## 🐾 Meet Gracie — The Engineering Cat
 
-<img src="gracie.png" alt="Gracie the Engineering Cat" />
+<img src="../gracie.png" alt="Gracie the Engineering Cat" />
 
 Gracie is the unofficial mascot of Engineering and Development at Chromatographic Specialties Inc. She's a frequent sight across our software interfaces, and proudly serves as the mascot of IDentify.
 
