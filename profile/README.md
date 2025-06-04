@@ -2,6 +2,8 @@
 
 Welcome to the GitHub home of Chromatographic Specialties Inc. This organization is the central location for engineering, R&D, and software development, including our CHROMSPEC™ line of instrumentation software solutions.
 
+<a href="./fr.md">Pour voir cette page en français, veuillez cliquer ici.</a>
+
 ## 🧪 Who are we?
 
 Chromatographic Specialties Inc. is a family-owned and operated company based in Brockville, Ontario, Canada. Since 1963, we’ve specialized in providing high-quality Gas & Liquid Chromatography and Sample Preparation consumables and instrumentation to the Canadian scientific community.
