@@ -15,7 +15,7 @@ Notre succès repose sur notre expertise technique, notre service personnalisé 
 
 ## 🐾 Voici Gracie — la chatte de l’ingénierie
 
-<img src="../gracie.png" alt="Gracie, la chatte de l’ingénierie" />
+<img src="../gracie_fr.png" alt="Gracie, la chatte de l’ingénierie" />
 
 **Gracie** est la mascotte non officielle de l'équipe d'ingénierie et de développement chez Chromatographic Specialties Inc.  
 Vous la retrouverez souvent dans nos interfaces logicielles, et elle est également la fière mascotte de **IDentify**.
