@@ -16,7 +16,7 @@ Our continued success is built on a foundation of technical expertise, personali
 
 Gracie is the unofficial mascot of Engineering and Development at Chromatographic Specialties Inc. She's a frequent sight across our software interfaces, and proudly serves as the mascot of IDentify.
 
-She’s a quiet observer during sprints, a vocal presence during lunch breaks, and a constant reminder that curiosity (and a bit of chaos!) fuels innovation. Thoughtful user experience and great design are at the heart of the software and instruments we build. Gracie reminds us to stay grounded in those principles in order to design creative, user-friendly, and reliable solutions.
+She’s a quiet observer during sprints, a vocal presence during lunch breaks, and a great companion when it’s time to debug.
 
 
 ## 📫 Let's get in touch!
